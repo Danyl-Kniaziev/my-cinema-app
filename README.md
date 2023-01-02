@@ -7,7 +7,7 @@
 </div>
 
 ## 📔 Project description
-A simple REST server program engineered for cinema. this app supports: 
+A simple REST server program engineered for cinema. This app supports: 
 
 * registration and authentication users
 * filling out shopping cart tickets and ordering
